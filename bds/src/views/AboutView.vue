@@ -5,7 +5,7 @@
 
 <template>
   <div class="about-conatiner flex items-center justify-center">
-    <div class="container w-full grid grid-cols-3 sm:grid-cols-2 mt-[2%]">
+    <div class="container w-full grid grid-cols-3 mt-[2%]">
       <div class="w-full col-span-2 items-center">
         <div>
           <blockquote class="p-2 text-gray-900">

@@ -10,7 +10,7 @@ export default {
 </script>
 
 <template class>
-    <div class="flex items-center justify-center cards-container w-full content-center text-center py-25">
+    <div class="flex items-center justify-center cards-container w-full content-center text-center mb-25">
       <div class="grid grid-cols-1 sm:grid-cols-2 place-items-center gap-10">
         <div class="w-[400px] h-[325px] rounded-[1vw] overflow-hidden shadow-lg border-2 border-gray-200">
             <img class="w-full h-[50%] p-[1%]" src="../assets/slides/1.jpg" alt="Sunset in the mountains">
